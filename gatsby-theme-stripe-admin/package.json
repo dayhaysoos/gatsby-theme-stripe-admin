@@ -1,0 +1,27 @@
+{
+  "name": "gatsby-theme-stripe-admin",
+  "version": "0.0.0",
+  "author": {
+    "name": "Nick DeJesus",
+    "url": "https://www.twitter.com/dayhaysoos",
+    "email": "ndejesus1227@gmail.com"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "develop": "gatsby develop"
+  },
+  "devDependencies": {
+    "gatsby": "^2.15.15",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.13.68",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "dependencies": {
+    "gatsby-theme-stripe-base": "^1.0.1"
+  }
+}
