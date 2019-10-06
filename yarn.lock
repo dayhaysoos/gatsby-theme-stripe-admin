@@ -5580,10 +5580,10 @@ gatsby-telemetry@^1.1.28:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-stripe-base@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-stripe-base/-/gatsby-theme-stripe-base-1.0.1.tgz#2c7ece26bce2930eabe2ec62f3ce72cad678c04c"
-  integrity sha512-QrkrJgBjAvlwcBwEVGqCd8h2F9axFPIB8FS+K2BoTeQHfI9Kg06ijdrTTe7Ly6qtbQraooHbsiriE42pX0aIBQ==
+gatsby-theme-stripe-base@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-stripe-base/-/gatsby-theme-stripe-base-1.0.3.tgz#d58848e46df68dff3cfdcce4dc2f73c508f1fdad"
+  integrity sha512-2CACAkpKTRUUunqMRJx27I8TicziHx9b/eVQk86hCd/zPr0j6pOeI51MjVbKXe4iukbq2QT1xv/KLhQJ6D22OA==
   dependencies:
     "@emotion/core" "^10.0.17"
     "@emotion/styled" "^10.0.17"
